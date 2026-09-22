@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200" role="img" aria-label="Couverture : Vingt Minutes de Retard">
+<defs>
+ <radialGradient id="bg" cx="50%" cy="34%" r="80%">
+  <stop offset="0%" stop-color="rgba(157,178,174,0.16)"/>
+  <stop offset="45%" stop-color="#0b121a"/>
+  <stop offset="100%" stop-color="#070b11"/>
+ </radialGradient>
+ <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#070b11" stop-opacity="0"/>
+  <stop offset="62%" stop-color="#070b11" stop-opacity="0"/>
+  <stop offset="100%" stop-color="#070b11" stop-opacity="0.96"/>
+ </linearGradient>
+</defs>
+<rect width="800" height="1200" fill="url(#bg)"/>
+<g opacity="0.9"><line x1="722" y1="1013" x2="1015" y2="1035" stroke="rgba(157,178,174,0.1)" stroke-width="1"/><line x1="754" y1="555" x2="1256" y2="376" stroke="rgba(157,178,174,0.07)" stroke-width="1"/><line x1="573" y1="52" x2="1005" y2="226" stroke="rgba(157,178,174,0.05)" stroke-width="1"/><line x1="107" y1="686" x2="448" y2="571" stroke="rgba(157,178,174,0.07)" stroke-width="1"/><line x1="220" y1="546" x2="584" y2="573" stroke="rgba(157,178,174,0.17)" stroke-width="1"/><line x1="-42" y1="32" x2="212" y2="30" stroke="rgba(157,178,174,0.16)" stroke-width="1"/><line x1="281" y1="626" x2="669" y2="744" stroke="rgba(157,178,174,0.14)" stroke-width="1"/><line x1="197" y1="1176" x2="560" y2="1069" stroke="rgba(157,178,174,0.06)" stroke-width="1"/><line x1="320" y1="533" x2="998" y2="480" stroke="rgba(157,178,174,0.12)" stroke-width="1"/><line x1="34" y1="672" x2="292" y2="662" stroke="rgba(157,178,174,0.11)" stroke-width="1"/><line x1="215" y1="534" x2="686" y2="345" stroke="rgba(157,178,174,0.15)" stroke-width="1"/><line x1="-97" y1="1029" x2="376" y2="1082" stroke="rgba(157,178,174,0.07)" stroke-width="1"/><line x1="641" y1="802" x2="900" y2="864" stroke="rgba(157,178,174,0.09)" stroke-width="1"/><line x1="221" y1="761" x2="816" y2="608" stroke="rgba(157,178,174,0.09)" stroke-width="1"/><line x1="482" y1="1161" x2="687" y2="1160" stroke="rgba(157,178,174,0.07)" stroke-width="1"/><line x1="367" y1="343" x2="822" y2="515" stroke="rgba(157,178,174,0.08)" stroke-width="1"/><line x1="-52" y1="155" x2="304" y2="276" stroke="rgba(157,178,174,0.1)" stroke-width="1"/><line x1="122" y1="695" x2="757" y2="664" stroke="rgba(157,178,174,0.06)" stroke-width="1"/><line x1="-6" y1="852" x2="244" y2="985" stroke="rgba(157,178,174,0.11)" stroke-width="1"/><line x1="254" y1="3" x2="899" y2="182" stroke="rgba(157,178,174,0.08)" stroke-width="1"/><line x1="365" y1="823" x2="856" y2="584" stroke="rgba(157,178,174,0.12)" stroke-width="1"/><line x1="166" y1="524" x2="409" y2="433" stroke="rgba(157,178,174,0.19)" stroke-width="1"/><line x1="166" y1="439" x2="685" y2="716" stroke="rgba(157,178,174,0.13)" stroke-width="1"/><line x1="191" y1="588" x2="414" y2="512" stroke="rgba(157,178,174,0.08)" stroke-width="1"/><line x1="-83" y1="126" x2="505" y2="168" stroke="rgba(157,178,174,0.2)" stroke-width="1"/><line x1="521" y1="913" x2="1073" y2="1214" stroke="rgba(157,178,174,0.17)" stroke-width="1"/></g>
+<rect width="800" height="1200" fill="url(#fade)"/>
+<rect x="0" y="0" width="800" height="1200" fill="none" stroke="rgba(157,178,174,0.35)" stroke-width="2"/>
+<g transform="translate(60,120) scale(0.62)"><g fill="none" stroke="#9db2ae" stroke-width="7" stroke-linecap="round"><path d="M100,100 C96,80 108,60 132,60 C156,60 168,82 156,103 C148,118 130,120 120,109 C114,102 116,91 125,89"/><path transform="rotate(120 100 100)" d="M100,100 C96,80 108,60 132,60 C156,60 168,82 156,103 C148,118 130,120 120,109 C114,102 116,91 125,89"/><path transform="rotate(240 100 100)" d="M100,100 C96,80 108,60 132,60 C156,60 168,82 156,103 C148,118 130,120 120,109 C114,102 116,91 125,89"/></g><circle cx="100" cy="100" r="5" fill="#9db2ae"/></g>
+<text x="60" y="238" font-family="monospace" font-size="20" letter-spacing="4" fill="#9db2ae">RÉALISME</text>
+<text x="60" y="900" font-family="'Space Grotesk',system-ui,sans-serif" font-weight="700" font-size="54" fill="#e8f2ee" letter-spacing="-1">Vingt Minutes</text><text x="60" y="962" font-family="'Space Grotesk',system-ui,sans-serif" font-weight="700" font-size="54" fill="#e8f2ee" letter-spacing="-1">de Retard</text>
+<line x1="60" y1="1030" x2="240" y2="1030" stroke="#9db2ae" stroke-width="3"/>
+<text x="60" y="1120" font-family="monospace" font-size="22" letter-spacing="1" fill="#9db2ae">TRU<tspan fill="#9db2ae">vector</tspan>.dev</text>
+<text x="60" y="1150" font-family="monospace" font-size="14" letter-spacing="2" fill="#6f8582">NOUVELLE · ÉDITION NUMÉRIQUE</text>
+</svg>
