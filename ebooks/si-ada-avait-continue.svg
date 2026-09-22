@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200" role="img" aria-label="Couverture : Si Ada Avait Continué">
+<defs>
+ <radialGradient id="bg" cx="50%" cy="34%" r="80%">
+  <stop offset="0%" stop-color="rgba(52,245,197,0.16)"/>
+  <stop offset="45%" stop-color="#0b121a"/>
+  <stop offset="100%" stop-color="#070b11"/>
+ </radialGradient>
+ <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#070b11" stop-opacity="0"/>
+  <stop offset="62%" stop-color="#070b11" stop-opacity="0"/>
+  <stop offset="100%" stop-color="#070b11" stop-opacity="0.96"/>
+ </linearGradient>
+</defs>
+<rect width="800" height="1200" fill="url(#bg)"/>
+<g opacity="0.9"><ellipse cx="400" cy="504" rx="103" ry="81" fill="none" stroke="rgba(52,245,197,0.22)" stroke-width="1.4" transform="rotate(167 400 504)"/><circle cx="503" cy="506" r="4" fill="#34f5c5"/><ellipse cx="400" cy="504" rx="153" ry="117" fill="none" stroke="rgba(52,245,197,0.22)" stroke-width="1.4" transform="rotate(124 400 504)"/><circle cx="510" cy="435" r="7" fill="#34f5c5"/><ellipse cx="400" cy="504" rx="234" ry="166" fill="none" stroke="rgba(52,245,197,0.22)" stroke-width="1.4" transform="rotate(107 400 504)"/><circle cx="622" cy="553" r="6" fill="#34f5c5"/><ellipse cx="400" cy="504" rx="292" ry="168" fill="none" stroke="rgba(52,245,197,0.22)" stroke-width="1.4" transform="rotate(64 400 504)"/><circle cx="120" cy="557" r="6" fill="#34f5c5"/><ellipse cx="400" cy="504" rx="383" ry="258" fill="none" stroke="rgba(52,245,197,0.22)" stroke-width="1.4" transform="rotate(91 400 504)"/><circle cx="680" cy="674" r="4" fill="#34f5c5"/><circle cx="400" cy="504" r="16" fill="#34f5c5"/><circle cx="400" cy="504" r="30" fill="none" stroke="rgba(52,245,197,0.5)" stroke-width="1"/></g>
+<rect width="800" height="1200" fill="url(#fade)"/>
+<rect x="0" y="0" width="800" height="1200" fill="none" stroke="rgba(52,245,197,0.35)" stroke-width="2"/>
+<g transform="translate(60,120) scale(0.62)"><g fill="none" stroke="#34f5c5" stroke-width="7" stroke-linecap="round"><path d="M100,100 C96,80 108,60 132,60 C156,60 168,82 156,103 C148,118 130,120 120,109 C114,102 116,91 125,89"/><path transform="rotate(120 100 100)" d="M100,100 C96,80 108,60 132,60 C156,60 168,82 156,103 C148,118 130,120 120,109 C114,102 116,91 125,89"/><path transform="rotate(240 100 100)" d="M100,100 C96,80 108,60 132,60 C156,60 168,82 156,103 C148,118 130,120 120,109 C114,102 116,91 125,89"/></g><circle cx="100" cy="100" r="5" fill="#34f5c5"/></g>
+<text x="60" y="238" font-family="monospace" font-size="20" letter-spacing="4" fill="#34f5c5">UCHRONIE</text>
+<text x="60" y="900" font-family="'Space Grotesk',system-ui,sans-serif" font-weight="700" font-size="64" fill="#e8f2ee" letter-spacing="-1">Si Ada Avait</text><text x="60" y="972" font-family="'Space Grotesk',system-ui,sans-serif" font-weight="700" font-size="64" fill="#e8f2ee" letter-spacing="-1">Continué</text>
+<line x1="60" y1="1050" x2="240" y2="1050" stroke="#34f5c5" stroke-width="3"/>
+<text x="60" y="1120" font-family="monospace" font-size="22" letter-spacing="1" fill="#9db2ae">TRU<tspan fill="#34f5c5">vector</tspan>.dev</text>
+<text x="60" y="1150" font-family="monospace" font-size="14" letter-spacing="2" fill="#6f8582">NOUVELLE · ÉDITION NUMÉRIQUE</text>
+</svg>
